@@ -1,0 +1,32 @@
+User
+- firstname
+- name
+- email
+- password
+- role
+- enabled
+- contrat
+- entryDate
+
+Project
+- name
+- startDate
+- deadline
+- archived
+
+Task
+- title
+- description
+- deadline
+
+Tag
+- name
+
+Status
+- name
+
+TimeSlot
+- startDate
+- endDate
+
+diagrammme de classes créé avec : https://app.diagrams.net/
